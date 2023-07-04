@@ -1,0 +1,37 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1684757444105
+	},
+	"usage": true,
+	"analytics-uuid": "53ff9ce3-363e-4701-b481-abd07e4d138e",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "112932752263503340173",
+		"email": "kapedinc@gmail.com",
+		"email_verified": true,
+		"at_hash": "qXwd7Iv6dMmDG0j8n4oNEw",
+		"iat": 1684757460,
+		"exp": 1684761060
+	},
+	"tokens": {
+		"expires_at": 1684761059381,
+		"access_token": "ya29.a0AWY7CkkIwXL_JU51KkCxRxcg03WDBjamLjUAs8vbPk0EVHiyDNnpHQ34DEg5PXIdgltGNcDEd7tFBkgutRTxVr_tGOUcvoNu1sWiQXEQTIwyRJZTofY2KVQruGjwciR7VLJEXjS9auriQ6v7BXphZVQlTqrbkVYS3H3taCgYKAToSARMSFQG1tDrpDyuh1DrPSctHr4Hx5Na1Ag0171",
+		"expires_in": 3599,
+		"refresh_token": "1//06JB9nSeCXWTQCgYIARAAGAYSNwF-L9IrEEtlgtKPBc6sVAa97DSp0nSI1F18dmcTKp3C29Ad9LBF1kTjuPWAq3hufPLehML6uGI",
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjgyMjgzOGMxYzhiZjllZGNmMWY1MDUwNjYyZTU0YmNiMWFkYjViNWYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyOTMyNzUyMjYzNTAzMzQwMTczIiwiZW1haWwiOiJrYXBlZGluY0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InFYd2Q3SXY2ZE1tREcwajhuNG9ORXciLCJpYXQiOjE2ODQ3NTc0NjAsImV4cCI6MTY4NDc2MTA2MH0.XtCtHzS2dOGWN78d08Fl_SSbBgob9EblIpGJymAc6dfL90IutbBzDH61A-4g3b1kua72bjWs6nRBYv5VZCaDH5NPW3z5MtIw60PObLfEy7bA2LV8vkiZQ2dG8CKmHyBuaj7sJV89HZewpjAEZ9FMeGG_2wi0zMiMHVaBCl4zevNU4H2H31nrZ1CSq_hgDlxx2ZXAJVpJVbFBz5P8SwSDoioUk842uNOmJoEebpwLcyQerfvvZDSISwCMgq3oYHtLhT0CrSRIwkthKXiBTBewtN3aoKAJ3RCbIGJ4SiOOGqoaeqt55IVe6h-RTnSIZrA9__dT-RNt4TvI5NQwINOaPA"
+	},
+	"activeProjects": {
+		"C:\\Users\\salma\\Downloads\\chatvia-react-chat-app-template-2023-05-10-11-35-55-utc\\Chatvia_React_v2.2.1\\Chatvia\\src": "karat-chat"
+	}
+}
