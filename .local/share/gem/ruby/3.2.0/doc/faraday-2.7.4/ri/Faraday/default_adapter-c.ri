@@ -1,0 +1,7 @@
+U:RDoc::Attr[iI"default_adapter:ETI"Faraday::default_adapter;TI"R;T:publico:RDoc::Markup::Document:@parts[	o:RDoc::Markup::Paragraph;	[I"@overload default_adapter;To:RDoc::Markup::Verbatim;	[I">Gets the Symbol key identifying a default Adapter to use
+;TI"Efor the default {Faraday::Connection}. Defaults to `:net_http`.
+;TI"*@return [Symbol] the default adapter
+;T:@format0o;
+;	[I"(@overload default_adapter=(adapter);To;;	[I"DUpdates default adapter while resetting {.default_connection}.
+;TI".@return [Symbol] the new default_adapter.;T;0:
+@fileI"lib/faraday.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Faraday;TcRDoc::NormalModule0

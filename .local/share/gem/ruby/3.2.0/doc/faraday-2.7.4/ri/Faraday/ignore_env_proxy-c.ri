@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"ignore_env_proxy:ETI"Faraday::ignore_env_proxy;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"ATells Faraday to ignore the environment proxy (http_proxy). ;TI"Defaults to `false`. ;TI"@return [Boolean];T:
+@fileI"lib/faraday.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Faraday;TcRDoc::NormalModule0

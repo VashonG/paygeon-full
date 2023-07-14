@@ -7,7 +7,7 @@
 		"node8DeploysDisabledAfter": 1613390400000,
 		"node8RuntimeDisabledAfter": 1615809600000,
 		"node8WarnAfter": 1600128000000,
-		"fetched": 1684757444105
+		"fetched": 1688953284957
 	},
 	"usage": true,
 	"analytics-uuid": "53ff9ce3-363e-4701-b481-abd07e4d138e",
@@ -33,5 +33,6 @@
 	},
 	"activeProjects": {
 		"C:\\Users\\salma\\Downloads\\chatvia-react-chat-app-template-2023-05-10-11-35-55-utc\\Chatvia_React_v2.2.1\\Chatvia\\src": "karat-chat"
-	}
+	},
+	"lastError": 1688953312994
 }
