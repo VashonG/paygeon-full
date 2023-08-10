@@ -14,17 +14,23 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
+    - name: Debugging - Print Working Directory
+      run: pwd
+
+    - name: Debugging - List Directory Contents
+      run: ls -la
+
     - name: Use Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '14' # Update this to a more recent version of Node.js
+        node-version: '14'
 
     - name: Install Dependencies
       run: |
         sudo apt install nodejs
         sudo apt install npm
         npm install npm -g
-        cd bizzy3932/project/
+        cd bizzy3932/project/ # Check if this path is correct
         npm install
 
     - name: Setup Database Schema and Run Migrations
@@ -37,5 +43,3 @@ jobs:
       run: |
         cd bizzy3932/project/
         node index.js
-
-    # Add any additional steps such as testing or deployment here
